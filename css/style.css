@@ -1,0 +1,53 @@
+
+
+body div  {
+    
+    border:solid 2px gray ;
+    box-shadow: 2rem rgb(0, 0, 0);
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 5rem;
+    box-shadow: 2rem gray;
+    padding: 2rem ;
+    text-align: center;
+    background-color: black;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:left;
+}
+
+body {
+    border: solid 2px black ;
+    margin: 0 auto;
+    size: 20rem;
+    text-align: center;
+    background-color: burlywood;
+}
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+}
+.DOM {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: 2rem;
+    border: solid 1px;
+    text-shadow: 10px;
+    border: solid 2px gray;
+     box-shadow: 2rem rgb(0, 0, 0);
+}
+
+h2 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: indianred;
+}
+
+#quiz1,#quiz2,#quiz3,#quiz4,#pari,#dispari {
+    color: darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+
+}
